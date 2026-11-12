@@ -1,0 +1,10 @@
+opencv-python
+pandas
+google-genai
+sentence-transformers
+chromadb
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+streamlit

@@ -1,0 +1,25 @@
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments & bytecode caches
+env/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Video inputs & generated Visual RAG artifacts
+*.mp4
+*.mov
+extracted_frames/
+descriptions.json
+chroma_db/
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
